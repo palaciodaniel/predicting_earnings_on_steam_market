@@ -14,7 +14,11 @@ This becomes more feasible if your account is set to operate on Argentine pesos 
 
 Even worse, given the Steam Market's layout, you will need to enter every price manually to see how much your actual earnings will be. Doing this repeteadly can become a bit tiresome, and in this sense, by simply -and quickly- inputting your price on the attached Jupyter Notebook file the task can become not only more manageable, but also it will surely allow for more experimentation. This was the purpose behind this project, and of course it also had the added benefit of being an excellent opportunity to showcase another practical application of Machine Learning, but this time using a regression model instead of a [classification](https://github.com/palaciodaniel/predicting_psychotherapy_success_with_ml) one.
 
-You can experiment with your own inputs by entering the [following link](https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb). If by any chance this is your first time using a Jupyter Notebook, immediately after it loads go to the **Cell** tab and click **Run All**, then read the document while every cell is executed and when you reach the last one, just enter your desired number. To try another value, re-select this very last cell and press **Run** (just below the Cell tab). Repeat this process for every new value you want to try.
+## Instructions
+
+You can experiment with your own inputs either by entering the [following link](https://mybinder.org/v2/gh/palaciodaniel/predicting_earnings_on_steam_market/main?filepath=steam_market_valve_commissions.ipynb) or by clicking the **Launch Binder** icon at the beginning of this *readme*. 
+
+If by any chance this is your first time using a Jupyter Notebook, immediately after it loads go to the **Cell** tab and click **Run All**, then read the document while every cell is executed and when you reach the last one, just enter your desired number. To try another value, re-select this very last cell and press **Run** (just below the Cell tab). Repeat this process for every new value you want to try.
 
 ## Credits
 
